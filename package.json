@@ -1,0 +1,10 @@
+{
+  "name": "htmx-vscode-toolkit",
+  "version": "0.1.0",
+  "description": "Complete HTMX development toolkit for VS Code: IntelliSense, hover docs, validation, diagnostics, and snippets for 20+ template languages",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
